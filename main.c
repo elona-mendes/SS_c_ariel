@@ -28,7 +28,6 @@ int main(){
     atbash(word, txt);
     printf("\nAnagram Sequences: ");
     anagram(word, txt);
-    printf("\n");
     return 0;
 }
 
